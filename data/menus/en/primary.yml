@@ -17,7 +17,7 @@ items:
   target: "/about-us/"
   kind: page
   children: []
-- title: Open Food Network European Initiative
+- title: OFN Europe
   target: "/ofn-europe/"
   kind: page
   children: []
