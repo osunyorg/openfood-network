@@ -21,4 +21,8 @@ items:
   target: "/ofn-europe/"
   kind: page
   children: []
+- title: Who We Are
+  target: "/who-we-are/"
+  kind: page
+  children: []
 
