@@ -6,6 +6,7 @@ en:
   languageCode: en
   languageName: English
   permalinks:
+    organizations: /organisations/:slug/
   taxonomies:
     administrator: administrators
     author: authors
