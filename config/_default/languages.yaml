@@ -6,8 +6,8 @@ en:
   languageCode: en
   languageName: English
   permalinks:
-    organizations: /organisations/:slug/
-    persons: /equipe/:slug/
+    organizations: /instances/:slug/
+    persons: /team/:slug/
   taxonomies:
     administrator: administrators
     author: authors

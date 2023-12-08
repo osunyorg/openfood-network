@@ -17,8 +17,8 @@ items:
   target: "/team/"
   kind: page
   children: []
-- title: Organisations
-  target: "/organisations/"
+- title: Instances
+  target: "/instances/"
   kind: page
   children: []
 - title: About Us
