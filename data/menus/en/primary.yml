@@ -9,8 +9,8 @@ items:
   target: "/who-we-are/"
   kind: page
   children: []
-- title: Actualités
-  target: "/actualites/"
+- title: News
+  target: "/news/"
   kind: page
   children: []
 - title: Équipe
