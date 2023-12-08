@@ -1,6 +1,14 @@
 ---
 title: Main menu
 items:
+- title: OFN Europe
+  target: "/ofn-europe/"
+  kind: page
+  children: []
+- title: Who We Are
+  target: "/who-we-are/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -15,14 +23,6 @@ items:
   children: []
 - title: About Us
   target: "/about-us/"
-  kind: page
-  children: []
-- title: OFN Europe
-  target: "/ofn-europe/"
-  kind: page
-  children: []
-- title: Who We Are
-  target: "/who-we-are/"
   kind: page
   children: []
 
