@@ -9,6 +9,8 @@ en:
   params:
     social:
   permalinks:
+    posts: /news/:year-:month-:day-:slug/
+    posts_categories: /news/:slug/
     organizations: /instances/:slug/
     organizations_categories: /instances/categories/:slug/
     persons: /team/:slug/
