@@ -5,24 +5,30 @@ items:
   target: "/ofn-europe/"
   kind: page
   children: []
+  file: content/en/pages/ofn-europe/_index.html
 - title: Who We Are
   target: "/who-we-are/"
   kind: page
   children: []
+  file: content/en/pages/who-we-are/_index.html
 - title: News
   target: "/news/"
   kind: page
   children: []
+  file: content/en/posts/_index.html
 - title: Team
   target: "/team/"
   kind: page
   children: []
+  file: content/en/persons/_index.html
 - title: Instances
   target: "/instances/"
   kind: page
   children: []
+  file: content/en/organizations/_index.html
 - title: About Us
   target: "/about-us/"
   kind: page
   children: []
+  file: content/en/pages/about-us/_index.html
 
