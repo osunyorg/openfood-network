@@ -2,6 +2,11 @@
 
 baseURL: https://network.openfood.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: e74b5fbe-3108-4fa8-a1b6-51193f8da256
+
 ## LANGUAGE
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
