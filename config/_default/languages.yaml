@@ -10,14 +10,6 @@ en:
   params:
     contact_details:
 
-  permalinks:
-    pages_categories: /:slug/
-    posts: /news/:year-:month-:day-:slug/
-    posts_categories: /news/:slug/
-    organizations: /instances/:slug/
-    organizations_categories: /instances/categories/:slug/
-    persons: /team/:slug/
-    persons_categories: /team/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
