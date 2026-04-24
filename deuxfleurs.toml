@@ -15,110 +15,110 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/organisations/independent/index.html"
+from = "/organisations/independent/"
 to = "/instances/independent/"
 
 [[redirects]]
-from = "/organisations/open-food-network-uk/index.html"
+from = "/organisations/open-food-network-uk/"
 to = "/instances/open-food-network-uk/"
 
 [[redirects]]
-from = "/organisations/open-food-network-deutschland/index.html"
+from = "/organisations/open-food-network-deutschland/"
 to = "/instances/open-food-network-deutschland/"
 
 [[redirects]]
-from = "/organisations/open-food-network-scandinavia/index.html"
+from = "/organisations/open-food-network-scandinavia/"
 to = "/instances/open-food-network-scandinavia/"
 
 [[redirects]]
-from = "/organisations/acik-gida-agi/index.html"
+from = "/organisations/acik-gida-agi/"
 to = "/instances/acik-gida-agi/"
 
 [[redirects]]
-from = "/equipe/index.html"
+from = "/equipe/"
 to = "/team/"
 
 [[redirects]]
-from = "/organisations/open-food-network-schweiz-suisse-svizzera/index.html"
+from = "/organisations/open-food-network-schweiz-suisse-svizzera/"
 to = "/instances/open-food-network-schweiz-suisse-svizzera/"
 
 [[redirects]]
-from = "/equipe/kirsten-larsen/index.html"
+from = "/equipe/kirsten-larsen/"
 to = "/team/kirsten-larsen/"
 
 [[redirects]]
-from = "/organisations/open-food-network-katuma/index.html"
+from = "/organisations/open-food-network-katuma/"
 to = "/instances/open-food-network-katuma/"
 
 [[redirects]]
-from = "/equipe/konrad-sachse/index.html"
+from = "/equipe/konrad-sachse/"
 to = "/team/konrad-sachse/"
 
 [[redirects]]
-from = "/organisations/index.html"
+from = "/organisations/"
 to = "/instances/"
 
 [[redirects]]
-from = "/organisations/open-food-network-greece/index.html"
+from = "/organisations/open-food-network-greece/"
 to = "/instances/open-food-network-greece/"
 
 [[redirects]]
-from = "/actualites/index.html"
+from = "/actualites/"
 to = "/news/"
 
 [[redirects]]
-from = "/organisations/the-guardian/index.html"
+from = "/organisations/the-guardian/"
 to = "/instances/the-guardian/"
 
 [[redirects]]
-from = "/organisations/abc-news/index.html"
+from = "/organisations/abc-news/"
 to = "/instances/abc-news/"
 
 [[redirects]]
-from = "/organisations/the-conversation/index.html"
+from = "/organisations/the-conversation/"
 to = "/instances/the-conversation/"
 
 [[redirects]]
-from = "/organisations/open-food-france/index.html"
+from = "/organisations/open-food-france/"
 to = "/instances/open-food-france/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/index.html"
+from = "/equipe/equipe-editoriale/"
 to = "/team/equipe-editoriale/"
 
 [[redirects]]
-from = "/organisations/open-food-network-italy/index.html"
+from = "/organisations/open-food-network-italy/"
 to = "/instances/open-food-network-italy/"
 
 [[redirects]]
-from = "/equipe/jo-da-silva/index.html"
+from = "/equipe/jo-da-silva/"
 to = "/team/jo-da-silva/"
 
 [[redirects]]
-from = "/organisations/good-food/index.html"
+from = "/organisations/good-food/"
 to = "/instances/good-food/"
 
 [[redirects]]
-from = "/organisations/the-weekly-times/index.html"
+from = "/organisations/the-weekly-times/"
 to = "/instances/the-weekly-times/"
 
 [[redirects]]
-from = "/equipe/filipe-furtado/index.html"
+from = "/equipe/filipe-furtado/"
 to = "/team/filipe-furtado/"
 
 [[redirects]]
-from = "/organisations/treehugger/index.html"
+from = "/organisations/treehugger/"
 to = "/instances/treehugger/"
 
 [[redirects]]
-from = "/organisations/open-food-network-ireland/index.html"
+from = "/organisations/open-food-network-ireland/"
 to = "/instances/open-food-network-ireland/"
 
 [[redirects]]
-from = "/organisations/bbc/index.html"
+from = "/organisations/bbc/"
 to = "/instances/bbc/"
 
 [[redirects]]
-from = "/equipe/david-cook/index.html"
+from = "/equipe/david-cook/"
 to = "/team/david-cook/"
 
